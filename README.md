@@ -1,4 +1,7 @@
 # app-dev
-DETAILS
-DETAILS2
-DEATAILS3
+Favorite Movies
+Ookami kodomo Ame to Yuki
+Arcane
+Jojo's Bizarre Adventure
+Cyberpunk Edgerunners
+Enteng Kabisote
